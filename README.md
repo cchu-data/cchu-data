@@ -24,7 +24,8 @@ I build projects that combine financial domain knowledge with modern analytics t
 
 | Project | Description | Tools |
 |---|---|---|
-| [🏨 Hotel Revenue Analysis](https://github.com/cchu-data/hotel-revenue-analysis) | Exploratory analysis of hotel revenue performance, occupancy rates and KPIs | Python, pandas, matplotlib |
+| [🏨 Hotel Revenue Analysis](https://github.com/cchu-data/hotel-revenue-analysis) | Exploratory analysis of hotel booking performance, cancellation impact and RevPAR estimation | Python, pandas, matplotlib, seaborn |
+| [☀️ Melbourne Solar Adoption Analysis](https://github.com/cchu-data/melbourne-solar-adoption-analysis) | Geospatial clustering of residential solar adoption patterns across Melbourne postcodes | Python, geopandas, scikit-learn, folium |
 | [💰 Budget Variance Analysis](https://github.com/cchu-data/budget-variance-analysis) | Financial model comparing actual vs budget with variance breakdown | Python, Excel |
 | [🏠 Perth Housing Market Analysis](https://github.com/cchu-data/perth-housing-analysis) | EDA on Perth property market trends using public datasets | Python, seaborn |
 | [🛒 Retail Sales SQL Analysis](https://github.com/cchu-data/sql-retail-sales-analysis) | SQL queries to analyse retail sales performance and customer trends | SQL |
